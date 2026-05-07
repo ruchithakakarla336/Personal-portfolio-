@@ -9,7 +9,7 @@ my skills, experience, and background as a Senior Full Stack Developer.
 ## 👩‍💼 About Me
 Senior .NET Full Stack Developer with 5+ years of experience in 
 ASP.NET Core, Python, Azure, and AI/LLM integration. 
-Previously at Wells Fargo, Anthem, and Optum.
+
 
 ## 🛠️ Technologies Used
 - HTML5, CSS3, JavaScript
